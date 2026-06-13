@@ -1,0 +1,6 @@
+{
+  "name": "Richy Restaurant & Cafe",
+  "description": "The premium digital portal for Richy Restaurant & Cafe in Irbid, Jordan. Discover our authentic Middle Eastern menu, book standard and premium Arabic dining reservations, order for instant WhatsApp fulfillment, and connect with our late-night diner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
